@@ -1,5 +1,6 @@
+```html
 <font color="red">Az eredeti kód. Tartalmazza az építés integer overflow és a karrier csataképlet bugot is!</font>
-
+```
 
 Zandagort `s8 szerver, magyar kód`
 ==================================
